@@ -15,7 +15,10 @@ John_Nash
 └── nash_letters1.pdf
 ```
 
-
 ## Donations
 
 ![alt text](https://i.imgur.com/OimJ5Up.png "Logo Title Text 1")
+
+3ECc9Dk25hMcJv3C8MdSrjjriooc18wHZv
+
+You are free to donate.
