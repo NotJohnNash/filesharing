@@ -1,0 +1,10 @@
+John_Nash
+├── AC105_Nash_John_Forbes_1950.pdf
+├── JOHN NASH BITCOIN HONESTY.mp4
+├── RM1361.pdf
+├── dialogue.pdf
+├── money.pdf
+├── nash50a.pdf
+└── nash_letters1.pdf
+
+0 directories, 7 files
