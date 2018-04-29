@@ -1,6 +1,6 @@
 # John Nash artciles
 
-In this Git there is a repository named misc where is a links_1.md file. That file has a collection of links poiting to documents. And this torrent is archive of almost all of those documents.
+In this Git there is a repository named misc where is a links_1.md file. That file has a collection of links pointing to documents. And this torrent is archive of almost all of those documents.
 
 ## Content 
 
